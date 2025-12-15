@@ -2,7 +2,7 @@
 
 Full-Stack Web Developer | React & Laravel Specialist | DevOps & Cloud Enthusiast from India 🇮🇳
 
-📧 Email: yshravankumarpandit4476@gmail.com
+📧 Email: shravankumarpandit4476@gmail.com
 
 💼 Open for opportunities | Immediate deployment
 
