@@ -46,8 +46,7 @@ I enjoy breaking complex systems into simple, understandable components—and do
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=skp2104)
-
+![trophy](https://github-profile-trophy.vercel.app/?username=skp2104&row=1)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
