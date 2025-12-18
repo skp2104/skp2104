@@ -45,8 +45,9 @@ I enjoy breaking complex systems into simple, understandable components—and do
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=skp2104&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=skp2104&theme=flat&row=1&no-frame=true)
+![Followers](https://img.shields.io/github/followers/skp2104?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/skp2104?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Public%20Repos-Visible-success)
 
 
 ### ✍️ Random Dev Quote
